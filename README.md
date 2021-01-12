@@ -2,7 +2,7 @@
 
 Generates all possible crossword puzzle solutions given a dictionary and a game board.
 
-# Execution
+# execution
 
 Compilation: javac Crossword.java
 
